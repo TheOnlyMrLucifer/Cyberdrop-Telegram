@@ -15,8 +15,8 @@ export default () => {
 	// perhaps expose some API metadata at the root
 	api.get('/', (req, res) => {
 		res.json({
-			status: 'I am alive!',
-			message: 'This shit is pain in the ass to maintain'
+			status: 'The King Of Hell Is Here',
+			message: 'Yours Truly TheOnlyMrLucifer'
 		});
 	});
 
@@ -161,6 +161,7 @@ export default () => {
 			/zip <url> - zip cyberdrop album. (max 50MB)
 			/gripe <url> - Download dmca gripe album. 👷‍ BETA
 			/mini <url> - Compressed grouped images. Buggy AF.
+			Made By Yours Truly The Devil
 			`);
 
 		} catch (error) {
