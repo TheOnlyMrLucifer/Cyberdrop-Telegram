@@ -1,7 +1,7 @@
 {
   "name": "cyberdrop-telegram",
   "version": "0.0.1",
-  "description": "cyberdrop telegram bot",
+  "description": "Cyberdrop Downloader By Lucifer",
   "main": "dist",
   "scripts": {
     "dev": "set NODE_ENV=development && nodemon -w src --exec \"babel-node src --presets es2015 --optimize_for_size --max_old_space_size=920,stage-0\"",
@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/izqalan/cyberdrop-telegram.git"
+    "url": "git+https://github.com/TheOnlyMrLucifer/cyberdrop-telegram.git"
   },
-  "author": "Izqalan <izqalan@protonmail.com>",
+  "author": "TheOnlyMrLucifer <theonlymrlucifer@protonmail.com>",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.13.3",
@@ -41,7 +41,7 @@
     "nodemon": "^1.9.2"
   },
   "bugs": {
-    "url": "https://github.com/izqalan/cyberdrop-telegram/issues"
+    "url": "https://github.com/TheOnlyMrLucifer/cyberdrop-telegram/issues"
   },
-  "homepage": "https://github.com/izqalan/cyberdrop-telegram#readme"
+  "homepage": "https://github.com/TheOnlyMrLucifer/cyberdrop-telegram#readme"
 }
