@@ -15,7 +15,7 @@ Commands:
 
 ```sh
 # clone it
-git clone git@github.com:izqalan/Cyberdrop-Telegram.git
+git clone git@github.com:TheOnlyMrLucifer/Cyberdrop-Telegram.git
 
 # Make it your own
 rm -rf .git && git init && npm init
