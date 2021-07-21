@@ -31,7 +31,7 @@ npm start
 ```
 
 ### Self deploy on heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+Click this button: [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 #### Create a Telegram Bot
 
 - Use BotFather on Telegram to create new bot. [BotFather](https://telegram.me/BotFather)
